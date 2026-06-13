@@ -1,4 +1,4 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f7fee36-4f04-47b3-b189-1c2b5332c3f4" />**<h1 align="center">Hi 👋, I'm Akshita Kannan</h1>
+
 
 <h3 align="center">Cyber Security Student | Python Developer</h3>
 
